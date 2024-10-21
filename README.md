@@ -1,5 +1,7 @@
 # Nginx Log Analyzer
 
+[Project Ideas Roadmap](https://roadmap.sh/projects/nginx-log-analyser)
+
 This repository contains a shell script (`nginx_log_analyzer.sh`) that analyzes Nginx access logs from the command line. The goal of this script is to provide a quick overview of various aspects of the logs, such as frequently requested paths, common IP addresses, response status codes, and user agents.
 
 ## Features
